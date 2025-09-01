@@ -54,7 +54,9 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samson-Abebe/Samson-Abebe/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+ 
+  ![snake gif](https://raw.githubusercontent.com/Samson-Abebe/Samson-Abebe/output/snake.svg)
+
 </p>
 
 ---
