@@ -52,10 +52,13 @@
 ---
 
 ## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samson-Abebe/Samson-Abebe/output/snake.svg" alt="snake animation"/>
+</p>
 
 
  
-  ![snake gif](https://raw.githubusercontent.com/Samson-Abebe/Samson-Abebe/output/snake.svg)
+  ![snake gif]()
 
 
 
