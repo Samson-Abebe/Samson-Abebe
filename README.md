@@ -38,12 +38,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samson2626&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samson2626&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samson-Abebe&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samson-Abebe&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samson2626&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samson-Abebe&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/Samson2626/Samson2626/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Samson-Abebe/Samson-Abebe/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
