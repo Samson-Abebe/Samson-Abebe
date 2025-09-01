@@ -14,6 +14,10 @@
 
 📄 **[Download My CV](https://github.com/Samson-Abebe/Samson-Abebe/raw/main/Samson-Abebe-CV.pdf)**  
 📄 [Download My CV](https://github.com/Samson-Abebe/Samson-Abebe/raw/main/cv/samson.png)
+📄 [Open My CV](https://github.com/Samson-Abebe/Samson-Abebe/blob/main/cv/samson.png)
+[Open My CV](https://github.com/Samson-Abebe/Samson-Abebe/raw/main/cv/samson.png)
+
+
 
 
 ---
