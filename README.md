@@ -13,6 +13,8 @@
 ⚡ Fun Fact: *I turn complex problems into clean & scalable solutions*  
 
 📄 **[Download My CV](https://github.com/Samson-Abebe/Samson-Abebe/raw/main/Samson-Abebe-CV.pdf)**  
+📄 [Download My CV](https://github.com/Samson-Abebe/Samson-Abebe/raw/main/cv/samson.png)
+
 
 ---
 
