@@ -12,12 +12,8 @@
 🌱 Exploring **AI, Data Science, and Full-Stack Development**  
 ⚡ Fun Fact: *I turn complex problems into clean & scalable solutions*  
 
-📄 **[Download My CV](https://github.com/Samson-Abebe/Samson-Abebe/raw/main/Samson-Abebe-CV.pdf)**  
-📄 [Download My CV](https://github.com/Samson-Abebe/Samson-Abebe/raw/main/cv/samson.png)
-📄 [Open My CV](https://github.com/Samson-Abebe/Samson-Abebe/blob/main/cv/samson.png)
-[Open My CV](https://github.com/Samson-Abebe/Samson-Abebe/raw/main/cv/samson.png)
 ![My CV](https://github.com/Samson-Abebe/Samson-Abebe/raw/main/cv/samson.png)
-📄 [Open My CV](https://github.com/Samson-Abebe/Samson-Abebe/raw/main/cv/samson.png)
+
 
 
 
@@ -28,7 +24,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,flask,fastapi,html,css,js,ts,nodejs,express" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,flask,fastapi,html,css,js,nodejs,express" /><br/>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
@@ -60,18 +56,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Samson-Abebe/Samson-Abebe/output/snake.svg" alt="snake animation"/>
-</p>
-
-
- 
-  ![snake gif]()
-
-
-
----
 
 ## 🌐 Connect With Me  
 
