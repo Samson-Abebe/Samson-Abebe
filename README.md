@@ -53,11 +53,11 @@
 
 ## 🐍 Contribution Snake  
 
-<p align="center">
+
  
   ![snake gif](https://raw.githubusercontent.com/Samson-Abebe/Samson-Abebe/output/snake.svg)
 
-</p>
+
 
 ---
 
