@@ -1,75 +1,52 @@
-# 👋 Hi, I'm Samson Abebe  
+# 👋 Hi, I'm Samson Abebe
 
-🚀 **Software Engineer | Full-Stack Developer | AI & Data Enthusiast**  
+[![Watch My Intro](https://img.youtube.com/vi/eHaXw8Bd_ms/maxresdefault.jpg)](https://www.youtube.com/watch?v=eHaXw8Bd_ms)
 
-Passionate programmer with strong skills in **Python, C++, and React**.  
-I love building **real-time applications**, managing **databases**, and solving **complex problems** through innovative solutions.  
-Currently focused on **AI, Data Science, and Full-Stack Development** while continuously learning and contributing to impactful projects.  
+*A quick introduction to who I am and what I do.*
 
 ---
 
-## 📬 Contact  
-- 📞 +2519-34190091  
-- 📧 [samsonabebe406@gmail.com](mailto:samsonabebe406@gmail.com)  
-- 📍 Addis Ababa, Ethiopia  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/samson-abebe-165411327)  
+##  About Me
+I’m a passionate **Software Engineer** from **Addis Ababa, Ethiopia**. Skilled in **Python**, **C++**, and **React**, I specialize in building **real-time web applications**, **AI-driven tools**, and data-powered systems.
 
 ---
 
-## 🚀 Projects  
+##  Projects & Demos
 
-- **Clinic Management System** → *(Flask + MySQL)*  
-- **Electronic Event Registration System** → *(Flask + MySQL + CORS)*  
-- **Web-based Management System** → *(Flask + MySQL + MongoDB)*  
-- **Telegram Chatbot** → *(Telethon + PyTorch, JSON-driven)*  
-- **Telegram User Adding Project** → *(Telethon automation)*  
-- **User Chat System** *(planned: account creation + chat)*  
-- **Data Generation Project** → *(for training chatbot, AI/Data)*  
-- **Algorithms & Problem Solving** → *(Python & C++)*  
+### • Clinic Management System
+*Stack:* Flask · MySQL  
+A full-featured management dashboard. [▶️ Detailed demo video coming soon!](https://youtu.be/eHaXw8Bd_ms)
 
----
+### • Telegram Chatbot (AI + Telethon)
+*Stack:* PyTorch · Telethon · JSON-driven  
+Automates user interaction seamlessly. [▶️ See it in action.](https://youtu.be/eHaXw8Bd_ms)
 
-## 🛠 My Skills  
-
-**Web Development:**  
-`Flask` · `Flask-SocketIO` · `React` · `HTML` · `CSS` · `JavaScript`  
-
-**Python Development:**  
-`asyncio` · `Telethon` · `PyTorch` · `pandas` · `OpenCV` · `BeautifulSoup` · `random`  
-
-**Database Management:**  
-`MySQL` · `MongoDB` · `SQLAlchemy`  
-
-**Other Tools:**  
-`GitHub` · `C++` · `Problem Solving`  
+*(Repeat for other projects as desired)*
 
 ---
 
-## 💼 Experience  
-
-**GeDeb Engineering**  
-*Software Engineer (2025 – Present)*  
-
-- Working on **real-time web systems**  
-- Managing **databases** and **automation workflows**  
-- Applying **problem-solving skills** to deliver efficient solutions  
-
----
-
-## 🎓 Education  
-
-**Madda Walabu University** *(2020 – 2024)*  
-🎓 Bachelor’s in Computer Science  
+##  Key Technologies
+| Category       | Tools & Libraries |
+|----------------|-------------------|
+| Web            | Flask · Flask-SocketIO · React · HTML · CSS · JavaScript |
+| Python & AI    | asyncio · Telethon · PyTorch · pandas · OpenCV · BeautifulSoup |
+| Databases      | MySQL · MongoDB · SQLAlchemy |
+| Dev Practices  | GitHub · Problem Solving · C++ |
 
 ---
 
-## 📊 GitHub Stats  
-
-![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samson2626&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samson2626&layout=compact&theme=react)  
+##  Experience
+**GeDeb Engineering – Software Engineer (2025–Present)**  
+Driving development of real-time web solutions, database systems, and automation pipelines.
 
 ---
 
-## 🌟 Motto  
+##  Education
+**Madda Walabu University** (2020–2024)  
+BSc in Computer Science
 
-💡 *"Committed to continuous learning and delivering quality work."*  
+---
+
+##  Let’s Connect
+- **Email:** [samsonabebe406@gmail.com](mailto:samsonabebe406@gmail.com)  
+- **Location:** Addis Ababa, Ethiopia
