@@ -1,6 +1,6 @@
 <!-- Centered Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Samson+Abebe;maoSoftware+Engineer+%7C+Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Problem+Solver+%7C+Lifelong+Learner" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Samson+Abebe;m aoSoftware+Engineer+%7C+Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Problem+Solver+%7C+Lifelong+Learner" alt="Typing animation" />
 </h1>
 
 ---
